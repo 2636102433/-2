@@ -1,0 +1,8 @@
+vip='http://www.dao0305.cn/vip/yddfg/?url=';
+version='1';
+downlaod='https://fir.im/akysaz###https://fir.im/akysaz###https://fir.im/akysaz';
+newdata='1.本次更新了XXXX
+2.修复了xxx的bug
+3.加快了播放速度';
+qq='2927506512';
+key='cwREk10126aM0YiNAbXPJ29Ajmquus';

@@ -1,0 +1,17 @@
+{name=:'环太平洋：雷霆再起';pic=:'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512933684.webp';title=:'高清';id='20435622';data:='环太平洋：雷霆再起|http://sohu.zuida-163sina.com/share/cLYTDDvNJyvmq2mL';}
+
+{name=:'古墓丽影：源起之战';pic=:'https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512717509.webp';title=:'高清';id='3445906';data:='古墓丽影：源起之战|https://v3.438vip.com/share/4oP4TFRdngVCpNa2';}
+
+{name=:'厉害了我的国';pic=:'http://ww1.sinaimg.cn/large/7d172de2gy1fp7lnkb4ltj20u01810wz.jpg';title=:'高清';id='30152451';data:='第一集|https://v3.438vip.com/share/cEE5BMIEtJyp6snD<br>第二集|https://v3.438vip.com/share/7t7TSyN5ceC84tgG<br>第三集|https://v3.438vip.com/share/DncKfbxQ0V5mdnY7<br>第四集|https://v3.438vip.com/share/E4OEOIVpjUCTGEkX<br>第五集|https://v3.438vip.com/share/MfFjkEDYXSEQRPnf<br>第六集|https://v3.438vip.com/share/cTr8TSaHOX2yjvJ9';}
+
+{name=:'余罪';pic=:'http://www.yongjiuzy.com/LdgImg.php?url=http://ww1.sinaimg.cn/large/6b8ae5f3gy1fjmzke755xj207g0aa3z0.jpg';title=:'高清';id='26363830';data:='第一集|https://v2.438vip.com/share/wrVjU9c348wCM3gU<br>第二集|https://v2.438vip.com/share/LHgJH3dAiGRRMP7L<br>第三集|https://v2.438vip.com/share/YSJSbBj10876XO44<br>第四集|https://v2.438vip.com/share/ehE6gBpDerSbHso0<br>第五集|https://v2.438vip.com/share/xwcZoQMwLJuQhsBD<br>第六集|https://v2.438vip.com/share/C8Ar1jkYWIRvLvgO<br>第七集|https://v2.438vip.com/share/iqCwWfMBnjHzOHnc<br>第八集|https://zy.512wx.com/share/v6xOqIOi7vRGPmaZ<br>第九集|https://zy.512wx.com/share/3awrRNHacB8o31kJ<br>第十集|https://zy.512wx.com/share/NY0o1BGsk6j476sb';}
+
+{name=:'捉妖记2';pic=:'https://p.ssl.qhimg.com/t0182dbb1560ec2e33a.jpg';title=:'高清';id='26575103';data:='捉妖记2|https://baiduyuan.veryys.com/share/rBXRDIeXHC7ZwBOL';}
+
+{name=:'黑豹';pic=:'http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512123434.jpg';title=:'高清';id='6390825';data:='黑豹|http://vip.okzybo.com/share/cBGoBp8xhkBSPKAZ';}
+
+{name=:'熊出没·变形记';pic=:'http://t3.baidu.com/it/u=1069856494,943323658&fm=20';title=:'高清';id='27176717';data:='熊出没·变形记|http://vip.okzybo.com/share/QyJtIFU0nixmgELN';}
+
+{name=:'红海行动';pic=:'http://pic.pic-img.com/pic/upload/vod/2018-02/201802231519369253.jpg';title=:'高清';id='26861685';data:='红海行动|http://v.yongjiujiexi.com/share/WyAPZjUT2JMnNZSg';}
+
+{name=:'唐人街探案2';pic=:'http://ww2.sinaimg.cn/large/87c01ec7gy1foilksg67uj207i0ai750.jpg';title=:'高清';id='26698897';data:='唐人街探案2|https://video.letv-cdn.com/share/pgZvGq6astTyXqj1';}
